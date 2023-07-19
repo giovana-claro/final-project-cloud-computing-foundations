@@ -33,6 +33,8 @@ I had some issues on the way, cause I didn't have administrator permitions allow
 
 ![image](https://github.com/giovana-claro/final-project-cloud-computing-foundations/assets/139156735/809341a1-a508-41a9-a82e-24cd172fa5a9)
 
+![image](https://github.com/giovana-claro/final-project-cloud-computing-foundations/assets/139156735/34e68b09-529c-43a1-be1c-4812fc6aeba6)
+
 **Conclusion**
 
 This was a really cool project to gather everything I learned and put this in practice, cause there is when you really understand the details of the process, correcting errors and making it work.
