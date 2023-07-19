@@ -34,5 +34,8 @@ I had some issues on the way, cause I didn't have administrator permitions allow
 ![image](https://github.com/giovana-claro/final-project-cloud-computing-foundations/assets/139156735/809341a1-a508-41a9-a82e-24cd172fa5a9)
 
 **Conclusion**
+
 This was a really cool project to gather everything I learned and put this in practice, cause there is when you really understand the details of the process, correcting errors and making it work.
-I realised how important DevOps practices are and how it can automate process, avoiding errors and speeding up the deployment and traking of errors through Continuous Delivery pipelines.  
+I realised how important DevOps practices are and how it can automate process, avoiding errors and speeding up the deployment and traking of errors through Continuous Delivery pipelines.
+
+The final project website can be accessed in this [link](http://ccf-final-project.s3-website.us-east-2.amazonaws.com/).
